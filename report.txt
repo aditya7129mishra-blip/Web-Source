@@ -1,0 +1,8 @@
+Web scraper report
+===================
+URL: https://example.com/
+HTTP status: 200
+Page title: Example Domain
+Links found: 1
+Elapsed seconds: 0.713
+Scraped at: 2026-09-27T13:28:34.298184+00:00

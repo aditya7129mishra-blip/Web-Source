@@ -1,0 +1,14 @@
+{
+  "url": "https://example.com/",
+  "status_code": 200,
+  "page_title": "Example Domain",
+  "meta_description": "",
+  "scraped_at": "2026-09-27T13:28:34.298184+00:00",
+  "elapsed_seconds": 0.713,
+  "links": [
+    {
+      "text": "Learn more",
+      "url": "https://iana.org/domains/example"
+    }
+  ]
+}
